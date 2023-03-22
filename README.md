@@ -25,7 +25,7 @@
                 <li><a href="sakthi.html">Contact me</a></li>
             </ul>
         </li>
-        <li>Admin name = <strong>Anime kungu</strong>
+        <li>Admin name = <strong>Anime kunju</strong>
             <ul>
                 <li>Meme page=<a href="https://www.instagram.com/anime_endlessly/"><em>Anime_endlessly</em></a></li>
             </ul>
