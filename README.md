@@ -12,8 +12,6 @@
         <tr>
             <td><img class="fit-picture" src="Mm.jpg" alt="naanum and kunjukal"></td>
             <td> <h1><em>Memes Boyzzz...</em></h1>
-                <p><em>I am gokul<strong> Eswar's firend</strong>.</em></p>
-                <p><em>Prabhu oru mutta_____ and<strong>  toxic meme admin </strong></em></p>
             </td>
         </tr>
     </table>
